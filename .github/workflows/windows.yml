@@ -21,4 +21,4 @@ jobs:
       run: cmake .
 
     - name: build
-      run: cmake --build . -j4
+      run: cmake --build . -j8
